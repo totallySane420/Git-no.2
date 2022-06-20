@@ -1,2 +1,3 @@
 Hello
 I wrote an AI Program. Please accept my code into your code.
+I made a mistake but you dont know.
